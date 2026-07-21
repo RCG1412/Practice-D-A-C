@@ -36,3 +36,7 @@ Add a set of basic questions with answers if related to the subject of this QSG.
 # Troubleshooting
 
 Add a few troubleshooting scenarios with workaround if related to the subject of this QSG.
+
+# Best Practices
+
+Add a few recommendations if related to the subject of this QSG.
