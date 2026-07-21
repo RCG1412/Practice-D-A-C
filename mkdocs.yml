@@ -8,5 +8,5 @@ nav:
 - Getting Started: "Getting Started.md"
 - Quick Start: "Quick Start Guide.md"
 - API Reference Guide:
-  - GET.md
-  - POST.md
+  - docs/GET.md
+  - docs/POST.md
