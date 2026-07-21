@@ -7,3 +7,6 @@ nav:
 - Home: index.md
 - Getting Started: "Getting Started.md"
 - Quick Start: "Quick Start Guide.md"
+- API Reference Guide:
+  - GET.md
+  - POST.md
