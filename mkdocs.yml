@@ -1,0 +1,8 @@
+site_name: Project Docs
+site_url: https://RCG1412.github.io/Practice-D-A-C/
+repo_url: https://github.com/RCG1412/Practice-D-A-C
+theme:
+  name: material
+nav:
+- Home: index.md
+- Getting Started: getting-started.md
