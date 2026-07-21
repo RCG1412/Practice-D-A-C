@@ -27,6 +27,7 @@ jobs:
       - uses: DavidAnson/markdownlint-cli2-action@v16
         with:
           globs: "docs/**/*.md"
+          config: ".markdownlint.json"
       - uses: lycheeverse/lychee-action@v1
         with:
           args: --verbose --no-progress 'docs/**/*.md'
