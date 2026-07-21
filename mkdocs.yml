@@ -5,4 +5,5 @@ theme:
   name: material
 nav:
 - Home: index.md
-- Getting Started: getting-started.md
+- Getting Started: "Getting Started.md
+- Quick Start: "Quick Start Guide.md"
