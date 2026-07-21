@@ -1,4 +1,4 @@
-# Getting Started with *product name*
+# Getting Started with product name
 
 # Overview
 
@@ -7,9 +7,7 @@
 - Conceptual information about the benefits
 - What are the key features
 
-# Setting up
-
-*Describe how to set up the product. Generally, it is about the set up required after installation*
-
+# Setting-up
+Describe how to set up the product. Generally, it is about the set up required after installation
 ## Key System requirements/configurations
-*All requirements that are required to use the product as a user*
+All requirements that are required to use the product as a user
